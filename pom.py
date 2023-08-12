@@ -6,8 +6,5 @@ class Registrationpage:
 
 ob1= Registrationpage()  
 print(ob1.__dict__)
-<<<<<<< HEAD
 print("helo chiranth")
-=======
 print("hello buddy")
->>>>>>> co-user2
