@@ -6,4 +6,5 @@ class Registrationpage:
 
 ob1= Registrationpage()  
 print(ob1.__dict__)
+print("helo chiranth")
 print("hello buddy")
